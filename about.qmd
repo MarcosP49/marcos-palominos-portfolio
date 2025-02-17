@@ -2,8 +2,4 @@
 title: "About"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+Hi I'm Marcos and I'm currently an undergraduate student at CSUMB studying statistics. This is my portfolio :)
