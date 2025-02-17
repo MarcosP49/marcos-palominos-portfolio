@@ -1,11 +1,23 @@
 ---
-title: "marcos-palominos-portfolio"
+title: "Marcos Palominos"
+about:
+  template: jolla
+  image: cat.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/marcos-palominos-13173b2b2/
+    - icon: github
+      text: Github
+      href: https://github.com/MarcosP49
 ---
 
-This is a Quarto website.
+Marcos Palominos is currently an undergrad student at CSUMB for statistics.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 1
-```
+Anticipated Graduation Date: Spring 2027
+
+## Experience
+
+Kumon Center Assistant \| October 2023 - July 2024
